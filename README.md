@@ -1,9 +1,7 @@
 # raspi-guitar
 ラズパイ＋加速度センサー＋puredataで作ったエフェクター
 
-[ハッカーズチャンプルー2019](https://hackers-champloo.org/2019/)で話した  
-[LT(ラズパイは〇〇)](https://www.slideshare.net/ShinjiMiyazato/ss-152583546)で紹介したやつの  
-ファイルを雑に残しておくリポジトリ  
+[ハッカーズチャンプルー2019](https://hackers-champloo.org/2019/)のLT **[ラズパイは〇〇](https://www.slideshare.net/ShinjiMiyazato/ss-152583546)** で紹介したネタで使ったファイルを雑に残しておくリポジトリ  
 [Qiita](https://qiita.com/miyaz/items/573af16007ca47c53762)にも概要や解説載せています
 
 ## ファイル説明
